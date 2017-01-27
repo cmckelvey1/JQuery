@@ -25,3 +25,9 @@ $(document).ready(function(){
 		$("div > p").hide();
 	}
 });
+
+$(document).ready(function(){
+	if(false){
+		
+	}
+});
