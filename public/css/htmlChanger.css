@@ -1,0 +1,21 @@
+.greenbox{
+	background-color: green;
+	height: 100px;
+	width: auto;
+	color: red;
+}
+.bluebox{
+	background-color: blue;
+	height: 100px;
+	width: auto;
+	color: red;
+}
+.yellowbox{
+	background-color: yellow;
+	height: 100px;
+	width: auto;
+	color: red;
+}
+p{
+	text-align: center;
+}
